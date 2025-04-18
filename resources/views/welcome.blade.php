@@ -4,9 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>mu'ammar el qaddafi TI 23A2</title>
+    <title>Mu'ammar El Qaddafi TI 23A2</title>
 </head>
 <body>
-
 </body>
 </html>
